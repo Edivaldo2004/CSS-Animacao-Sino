@@ -11,7 +11,7 @@
 
 @keyframes anim{
   10% {rotate: 15deg;}
-  10% {rotate: -15deg;}
+  10% {rotate: -12deg;}
   60% {rotate: 15deg;}
   60% {rotate: 15deg;}
 }
