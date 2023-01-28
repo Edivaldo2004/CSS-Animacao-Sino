@@ -1,0 +1,17 @@
+ body {
+  background-color: black;
+}
+
+.icon {
+  transform-origin: top;
+  animation: anim 1s linear forwards infinite;
+  margin-left: 47%;
+  margin-top: 20%;
+}
+
+@keyframes anim{
+  10% {rotate: 15deg;}
+  10% {rotate: -15deg;}
+  60% {rotate: 15deg;}
+  60% {rotate: 15deg;}
+}
